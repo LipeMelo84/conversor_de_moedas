@@ -1,0 +1,49 @@
+// Lista para armazenar as moedas no cofrinho
+// Inicializa a lista de moedas como uma lista vazia
+// Adiciona uma moeda na lista de moedas do cofrinho
+// Remove uma moeda da lista de moedas do cofrinho
+// Verifica se o cofrinho está vazio e imprime uma mensagem escolhida
+// Retorna sem fazer nada, pois não há moedas para listar
+// Percorre a lista de moedas e chama o método "info()" de cada uma para exibir suas informações
+// Verifica se o cofrinho está vazio e retorna 0 caso não haja moedas
+// Variável para armazenar o valor total convertido
+// Retorna o valor total acumulado convertido em reais
+
+		Menu
+// Objeto para leitura de entrada do usuário
+// Objeto que representa o cofrinho com as moedas
+// Inicializa o objeto de leitura
+// Inicializa o objeto do cofrinho vazio
+// Método que exibe o menu principal e lê a opção selecionada pelo usuário
+// Lê a opção digitada pelo usuário
+// Verifica a opção selecionada e realiza a ação correspondente
+// Chama o método para adicionar moedas
+// Volta ao menu principal após adicionar a moeda
+// Chama o método para remover moedas
+// Volta ao menu principal após remover a moeda
+// Exibe a lista das moedas no cofrinho
+// Volta ao menu principal
+// Calcula o valor total convertido para real
+// Volta ao menu principal
+// Mensagem caso a opção não seja válida
+// Volta ao menu principal
+// Método que exibe o menu para add moedas]
+// Lê a opção de moeda digitada pelo usuário
+// Lê o valor da moeda digitado pelo usuário como String
+// Substitui vírgulas por pontos para permitir a conversão para double
+// Converte o valor para double
+// Verifica o tipo de moeda selecionada e cria o objeto correspondente
+// Caso a moeda não esteja nas opções válidas
+// Volta ao menu principal
+// Adiciona a moeda criada no cofrinho
+// Método que exibe o menu para remover moedas
+// Lê a opção de moeda digitada pelo usuário
+// Lê o valor da moeda digitado pelo usuário como String
+// Substitui vírgulas por pontos para permitir a conversão para double
+// Converte o valor para double
+// Caso a opção de moeda não seja válida
+// Volta ao menu principal
+// Remove a moeda do cofrinho
+
+
+
