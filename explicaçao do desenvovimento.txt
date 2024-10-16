@@ -1,0 +1,12 @@
+trabalho foi desenvolvido para uma matéria da faculdade  pedi ajudar com algumas duvidas e conselhos em fórum do reddit
+dei foco em armazenar as moedas e calcular conforme são introduzidas
+as moedas separei conforme o enunciado da atividade
+pra fazer a conversão das moedas usei o conversor de moedas do banco central do dia 27/03
+Real para dólar = 4,9864
+Real para euro = 5,3983
+
+separei cada parte do código em diferentes documentos para manter melhor organizado e facilitar para encontrar erros 
+
+fui recomendado a usar @Override pra facilitar e simplificar o desenvolvimento do código
+
+uma coisa que não consegui resolver foi o calculo e a conversão serem feitas corretamente dependendo da quantidade de moedas ele da casas decimais praticamente infinitas
